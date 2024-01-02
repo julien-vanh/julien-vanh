@@ -9,3 +9,7 @@ I also develop cross-platform apps with Ionic framework + Angular.
 * 📱 iOS Swift, SwiftUI
 * 📱 Ionic, Angular
 * 💻 HTML, CSS, Javascript, typeScript
+
+## Examples of Work
+* [Simulateur Locatif](https://www.simulateur-locatif.fr/)
+* [Email Signature Designer](https://apps.apple.com/us/app/email-signature-designer/id1549588213)

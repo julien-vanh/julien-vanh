@@ -10,6 +10,8 @@ I also develop cross-platform apps with Ionic framework + Angular.
 * 📱 Ionic, Angular
 * 💻 HTML, CSS, Javascript, typeScript
 
+![Techs I use](https://skillicons.dev/icons?i=ts,html,angular,swift,firebase,aws,git)
+
 ## Examples of Work - Portfolio
 Apps available on stores :
 * [Simulateur Locatif](https://www.simulateur-locatif.fr/)

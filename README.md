@@ -18,7 +18,7 @@ Apps available on stores :
 * [Email Signature Designer](https://apps.apple.com/us/app/email-signature-designer/id1549588213)
 
 Discontinued projects :
-* [Resume Designer](https://apps.apple.com/us/app/resume-designer/id1586631944?platform=iphone)
-* [TVWiki](https://github.com/julien-vanh/julien-vanh/blob/774e2e6e3c6713da7528d7e722a27f23f352c3ff/tvwiki.md)
-* [TripList](https://github.com/julien-vanh/julien-vanh/blob/774e2e6e3c6713da7528d7e722a27f23f352c3ff/triplist.md)
+* [Resume Designer](https://github.com/julien-vanh/resume-designer)
+* [TVWiki](https://github.com/julien-vanh/tv-wiki)
+* [TripList](https://github.com/julien-vanh/france-explorer)
 * [Mon Exploitation](https://github.com/julien-vanh/julien-vanh/blob/774e2e6e3c6713da7528d7e722a27f23f352c3ff/visio.md)
